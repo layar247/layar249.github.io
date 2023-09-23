@@ -96,7 +96,7 @@ footer {
     background-color: azure;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
     .tabletask {
         max-width: 960px;
         order: 0;
