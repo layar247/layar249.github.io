@@ -1,0 +1,82 @@
+.wrapper {
+    text-align: center;
+}
+.linkedlist {
+    text-align: left;
+    background-color: darkorange;
+    border-bottom: 10px solid white;
+    margin: auto;
+}
+.tabletask {
+    margin: auto;
+    text-align: center;
+    border: 1px solid grey;
+}
+.tabletask th {
+    font-weight: normal;    
+    color: rgb(192, 18, 62);
+    padding: 10px 15px;
+}
+.tabletask td {
+    color: deepskyblue;
+    padding: 10px 15px;
+}
+.tabletask caption {
+    font-size: 20px;
+    text-decoration-color: 
+}
+.tabletask tr:nth-child(even) {background: #e8edff;}
+img {
+    max-width: 900px;
+    height: auto;
+}
+header {
+    text-align: center;
+    letter-spacing: 1px;
+    background: white;
+    color: black;
+}
+.logo {
+    width: 120px;
+    float: left;
+    margin-bottom: 0px;
+    text-align: left;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+a {
+    text-decoration: none;
+}
+.smt {
+    margin: auto;
+    text-align: left;
+    max-width: 960px;
+}
+.menu {
+    font-size: 20px;
+    margin: auto;
+    text-align: left;
+    max-width: 960px;
+    background-color: aqua;
+    border-bottom: 20px solid white;
+}
+.menu a {
+    color: fuchsia;
+}
+.content {
+    max-width: 960px;
+    text-align: center;
+    margin: auto;
+}
+form {
+    border-top: 10px solid white;
+    background-color: rgb(202, 223, 15);
+    color: rgb(184, 33, 33);
+}
+footer {
+    font-size: 20px;
+    background-color: azure;
+}
